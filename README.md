@@ -12,8 +12,8 @@ your machine. Please ensure that you have Perl installed on your computer.
 ## How to run
 
 1) If you have git installed, simply run the following command:
-		* Via SSH: `git clone git@github.com:btmonier/perlseq.git`
-		* Vis https: `https://github.com/btmonier/perlseq.git`
+		- Via SSH: `git clone git@github.com:btmonier/perlseq.git`
+		- Vis https: `https://github.com/btmonier/perlseq.git`
 
 2) If you have downloaded a zip file of this repo, unzip it and navigate to the `perlseq` directory
 

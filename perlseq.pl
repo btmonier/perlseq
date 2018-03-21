@@ -1,13 +1,16 @@
-##############################################################
-###    STAT 736 - Perl Program  (TASK 1) Brandon Monier    ###
-##############################################################
+#--------------------------------------------------------------------
+# Title:         PerlSeq - Main Program
+# Author:        Brandon Monier
+# Created:       2017-04-23
+# Last Modified: 2018-03-21
+#--------------------------------------------------------------------
 
 
 
 ### MAIN MENU SUB-ROUTINES ###
 
 main_menu:
-system("clear");								# clears command line for "cleaner" look
+system("clear");								# clears command line for "cleaner" look (linux and macOS only!)
 print "\n+----------------------+\n";		# main menu "graphical" layout
 print "| SeqData Program v1.8 |\n";
 print "|                      |\n";

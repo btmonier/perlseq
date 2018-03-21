@@ -1,9 +1,8 @@
 # PerlSeq
 
 ## About
-This is a series of Perl scripts and exercises to perform some basic 
-bioinformatics-related tasks. This program is simply an exercise to get a
-better understanding of how Perl handles text-based input data.
+This is a series of Perl scripts used to perform bioinformatics-related tasks 
+on FASTA-related sequence data. 
 
 ## Requirements
 To run this script, you will need a Linux distribution or macOS installed on

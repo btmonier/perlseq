@@ -2,7 +2,7 @@
 # Title:         PerlSeq - Main Program
 # Author:        Brandon Monier
 # Created:       2017-04-23
-# Last Modified: 2018-03-21
+# Last Modified: 2020-10-02
 #--------------------------------------------------------------------
 
 
@@ -12,7 +12,7 @@
 main_menu:
 system("clear");								# clears command line for "cleaner" look (linux and macOS only!)
 print "\n+----------------------+\n";		# main menu "graphical" layout
-print "| SeqData Program v1.8 |\n";
+print "|    PerlSeq  v1.8     |\n";
 print "|                      |\n";
 print "|      created by      |\n";
 print "|    Brandon Monier    |\n";
